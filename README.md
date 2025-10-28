@@ -131,7 +131,7 @@ Documentation:	Markdown, PowerPoint	Communication of insights
 ✅ Designed a scalable analytics framework replicable for future datasets
 ✅ Demonstrated cross-tool integration across Python, SQL, and Power BI
 
-💼** Impact Summary**
+💼 **Impact Summary**
 
 Business Value: Data-driven recommendations for marketing and customer retention
 
